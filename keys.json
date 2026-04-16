@@ -1,11 +1,11 @@
 {
   "keys": [
-    "admin_key",
-    "old_key"
+    "perm_key_001"
   ],
   "temp_keys": {
-    "test_key_24h": 1776333983,
-    "user_42": 1776247583,
-    "short_key_15min": 1776354120
+    "key_15min_test": 900,
+    "key_1hour_fast": 3600,
+    "key_1day_full": 86400,
+    "fixed_date_key": 1776353220
   }
 }
