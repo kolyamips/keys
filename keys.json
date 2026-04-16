@@ -1,18 +1,11 @@
 {
   "keys": [
-    "mops_admin_777",
-    "access_fbcs_123",
-    "soloveygay",
-    "spxjbxdwt5xihf1m",
-    "ct9y6hgbsmixc2ib",
-    "ws8yaixtrxfbalkv",
-    "oet5q3s51dhky5iy",
-    "la9q630jsu00myi7",
-    "vzate5vd9hs1q8l9",
-    "52pu34uw6bjn4rw1",
-    "nsfg95m7wr31fnuw",
-    "yrc1gfsbvj26739t",
-    "test_15m_temp",
-    "test_30m_XYZ"
-  ]
+    "admin_key",
+    "old_key"
+  ],
+  "temp_keys": {
+    "test_key_24h": 1776333983,
+    "user_42": 1776247583,
+    "short_key_15min": 1776354120
+  }
 }
